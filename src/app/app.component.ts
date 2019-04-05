@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'app';
   componentTitle = 'i am app component from component.ts';
   clickHandler(){
-    alert("i am clicked");
+    alert('i am clicked');
   }
 }
